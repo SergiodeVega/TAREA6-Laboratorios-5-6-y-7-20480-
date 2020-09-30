@@ -10,4 +10,4 @@
 
    3.3. Damos estilo a la página about.htm mediante CSS3 en el archivo /styles/pages/about.css, poniendo el texto en 3 columnas y arreglando otros estilos.
 
-4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio, pero aunque entiendo la funcionalidad, todavía no sería capaz de utilizarla por mí mismo en otra situación.
+4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio.
