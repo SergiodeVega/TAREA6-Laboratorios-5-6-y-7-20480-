@@ -1,6 +1,6 @@
 1. **Nombres y apellidos:** Sergio de Vega Ampudia
 
-2. **Fecha:** sábado 26 septiembre 2020
+2. **Fecha:** miércoles 30 septiembre 2020
 
 3. **Resumen del Ejercicio:**
 
