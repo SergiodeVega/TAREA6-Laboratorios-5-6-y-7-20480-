@@ -4,10 +4,10 @@
 
 3. **Resumen del Ejercicio:**
 
-   3.1. 
+   3.1. Damos estilo a la barra de navegación de todo el sitio web mediante el uso de CSS3 en el archivo /styles/nav.css que afecta a todas las páginas.
 
-   3.2. 
+   3.2. Damos estilo al enlace que lleva desde la página index.htm a la de registro, mediante código CSS3 en el archivo /styles/header.css, para que aparezca un círculo que cambiar de color al pasar el ratón por encima y nos lleve a la página resister.htm al hacer click.
 
-   3.3. 
+   3.3. Damos estilo a la página about.htm mediante CSS3 en el archivo /styles/pages/about.css, poniendo el texto en 3 columnas y arreglando otros estilos.
 
-4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio, pero aunque entiendo la funcionalidad, todavía no sería capaz de utilizarla por mí mismo en otra situación.
+4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio.
