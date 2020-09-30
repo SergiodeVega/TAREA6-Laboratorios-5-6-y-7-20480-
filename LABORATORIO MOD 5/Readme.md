@@ -8,6 +8,6 @@
 
    3.2. En el segundo ejercicio, se añade la funcionalidad de enviar al servidor la solicitud de atender a una de las conferencias y se reciben posibles mensajes del servidor.
 
-   3.3. 
+   3.3. En el último ejercicio se reescriben dos funciones de comunicación con el servidor por otras que usan el método asyn await.
 
 4. **Dificultades:** No he tenido complicaciones en seguir el laboratorio, pero aunque entiendo la funcionalidad, todavía no sería capaz de utilizarla por mí mismo en otra situación.
