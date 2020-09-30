@@ -4,7 +4,7 @@
 
 3. **Resumen del Ejercicio:**
 
-   3.1. 
+   3.1. Damos estilo a la barra de navegación de todo el sitio web mediante el uso de CSS3 en el archivo /styles/nav.css que afecta a todas las páginas.
 
    3.2. 
 
